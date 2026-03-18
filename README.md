@@ -54,6 +54,13 @@
 
 ---
 
+## 🏆 Prêmios e Conquistas
+
+- 🥈 2º Lugar Geral — Competição VieTech  
+  Projeto: Composteira e Horta Inteligente  
+
+---
+
 ## 📫 Contato
 
 <p align="center">
