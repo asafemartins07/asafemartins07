@@ -43,8 +43,3 @@
 📧 asafe07martins@gmail.com
 </p>
 
----
-
-<p align="center">
-⭐ “Evoluir um pouco todos os dias ainda é evolução.”
-</p>
