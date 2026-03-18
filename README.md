@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Desenvolvedor Back-end Python (Júnior) <br>
-🎓 Técnico em Desenvolvimento de Sistemas <br>
+🎓 Técnico em Desenvolvimento de Sistemas (SEED-PR, 2023-2025) <br>
 🚀 Em constante evolução na área de tecnologia  
 </p>
 
