@@ -6,7 +6,7 @@
 
 <p align="center">
 💻 Desenvolvedor Back-end com experiência em projetos IoT <br>
-🎓 Técnico em Desenvolvimento de Sistemas (SEED-PR, 2023-2025) <br>
+🎓 Estudante de Engenharia de Computação pela UNIFATEC-PR (2026 - atual) e Técnico em Desenvolvimento de Sistemas (SEED-PR, 2023-2025) <br>
 🚀 Em constante evolução na área de tecnologia  
 </p>
 
